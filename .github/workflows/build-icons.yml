@@ -15,8 +15,8 @@ jobs:
       id-token: write
 
     env:
-      ICON_REPO_OWNER: JacobMire
-      ICON_REPO_NAME: icon-library
+      ICON_REPO_OWNER: miteshb-eazyiot
+      ICON_REPO_NAME: eazyicons
 
     steps:
       - uses: actions/checkout@v3

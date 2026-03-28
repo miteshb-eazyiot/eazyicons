@@ -6,8 +6,8 @@ const HOST = process.env.HOST || "admin.eazyiot.com";
 const ORG = process.env.ORG || "";
 
 // Constants
-const ICON_REPO_OWNER = "JacobMire";
-const ICON_REPO_NAME = "icon-library";
+const ICON_REPO_OWNER = "miteshb-eazyiot";
+const ICON_REPO_NAME = "eazyicons";
 const ICON_CDN_BASE_URL = `https://cdn.jsdelivr.net/gh/${ICON_REPO_OWNER}/${ICON_REPO_NAME}`;
 
 // 1. Point dynamically to the correct isolated sub-folder
