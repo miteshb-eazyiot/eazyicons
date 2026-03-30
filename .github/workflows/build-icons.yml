@@ -30,71 +30,53 @@ jobs:
       - run: npm install
 
       # 🟢 STEP 1 — BUST JSDELIVR CACHE IMMEDIATELY
-      # Instead of pseudo-tags, use the RAW Git Hash (JSdelivr resolves this identically and instantly without 404 limits!)
       - name: Set release tag
         run: echo "TAG=${{ github.sha }}" >> "$GITHUB_ENV"
 
-      # 🟢 STEP 2 — Extract Metadata
-      - name: Extract metadata
-        id: meta
-        run: |
-          MSG="${{ github.event.head_commit.message }}"
-          HOST=$(echo "$MSG" | grep -oP '(?<=\[host:)[^\]]+' || echo 'admin.eazyiot.com')
-          ORG=$(echo "$MSG" | grep -oP '(?<=\[org:)[^\]]+' || echo '')
-          echo "HOST=$HOST" >> "$GITHUB_ENV"
-          echo "ORG=$ORG" >> "$GITHUB_ENV"
-
-      # 🟢 STEP 3 — Generate CSS (and optimize Icons)
+      # 🟢 STEP 2 — Generate CSS (and optimize Icons)
       - name: Generate CSS
         run: node scripts/generate-css.js
         env:
           TAG: ${{ env.TAG }}
-          HOST: ${{ env.HOST }}
-          ORG: ${{ env.ORG }}
 
-      # 🟢 STEP 4 — WAIT FOR CDN (Sort by NEWEST FILE)
+      # 🟢 STEP 3 — WAIT FOR CDN (Check any file to verify propagation)
       - name: Wait for jsDelivr
         run: |
-          TARGET_DIR="svg"
-          if [ "$HOST" != "admin.eazyiot.com" ] && [ -n "$ORG" ]; then
-            TARGET_DIR="tenant_svgs/${HOST}${ORG}"
-          fi
+          # Find a representative file to check CDN propagation
+          FILE=$(find svg tenant_svgs -name "*.svg" | head -n 1)
 
-          if [ ! -d "$TARGET_DIR" ]; then 
-            echo "$TARGET_DIR missing"
+          if [ -z "$FILE" ]; then
+            echo "No icons to check"
             exit 0
           fi
 
-          # ✅ Sort dynamically by NEWEST (-t) to guarantee checking the icon JUST uploaded
-          FILE=$(ls -t "$TARGET_DIR" | head -n 1)
-
-          echo "Checking CDN for $TARGET_DIR/$FILE"
+          echo "Checking CDN for $FILE"
 
           for i in {1..15}; do
             STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
-              "https://cdn.jsdelivr.net/gh/${{ env.ICON_REPO_OWNER }}/${{ env.ICON_REPO_NAME }}@${TAG}/$TARGET_DIR/$FILE")
+              "https://cdn.jsdelivr.net/gh/${{ env.ICON_REPO_OWNER }}/${{ env.ICON_REPO_NAME }}@${TAG}/$FILE")
 
             if [ "$STATUS" = "200" ]; then
               echo "CDN ready"
               exit 0
             fi
 
-            echo "Waiting ($i)..."
+            echo "Waiting ($i) for $STATUS..."
             sleep 3
           done
 
           echo "CDN not fully ready, continuing anyway"
 
-      # 🟢 STEP 5 — Commit Changes (CSS + Optimized Icons)
+      # 🟢 STEP 4 — Commit Changes (CSS + Optimized Icons)
       - name: Commit Changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add *.css svg/ tenant_svgs/ || echo "Nothing to add"
-          git commit -m "auto: update icons and CSS ($HOST) [skip ci]" || echo "No changes"
+          git commit -m "auto: sync icons and CSS [skip ci]" || echo "No changes"
           git push origin HEAD
 
-      # 🟢 STEP 7 — deploy
+      # 🟢 STEP 5 — Deploy
       - name: Upload icons.css to GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
