@@ -1,9 +1,1 @@
-<svg id="Battery-Empty--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    Battery Empty Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <title>battery--empty</title>
-  <path d="M12 12H3a1.00115 1.00115 0 0 1 -1 -1V5a1.001 1.001 0 0 1 1 -1h9a1.00115 1.00115 0 0 1 1 1v0.5h0.5a1.00115 1.00115 0 0 1 1 1v3a1.00135 1.00135 0 0 1 -1 1h-0.5v0.5a1.00135 1.00135 0 0 1 -1 1ZM3 5v6h9v-1.5h1.5v-3h-1.5v-1.5Z" fill="#000000" stroke-width="0.5"></path>
-  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-</svg>
+<svg id="Battery-Empty--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>Battery Empty Streamline Icon: https://streamlinehq.com</desc><defs/><title>battery--empty</title><path d="M12 12H3a1.00115 1.00115 0 0 1 -1 -1V5a1.001 1.001 0 0 1 1 -1h9a1.00115 1.00115 0 0 1 1 1v0.5h0.5a1.00115 1.00115 0 0 1 1 1v3a1.00135 1.00135 0 0 1 -1 1h-0.5v0.5a1.00135 1.00135 0 0 1 -1 1ZM3 5v6h9v-1.5h1.5v-3h-1.5v-1.5Z" fill="#000000" stroke-width="0.5"/><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></svg>

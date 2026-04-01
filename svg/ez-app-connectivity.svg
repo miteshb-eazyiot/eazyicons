@@ -1,9 +1,1 @@
-<svg id="App-Connectivity--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    App Connectivity Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <title>app-connectivity</title>
-  <path d="M10 7h4a1.00115 1.00115 0 0 0 1 -1V2a1.00115 1.00115 0 0 0 -1 -1h-4a1.00115 1.00115 0 0 0 -1 1H4.5a1.00115 1.00115 0 0 0 -1 1v2H2a1.00115 1.00115 0 0 0 -1 1v4a1.00115 1.00115 0 0 0 1 1h1v2a1.00115 1.00115 0 0 0 1 1h5a1.00115 1.00115 0 0 0 1 1h4a1.00115 1.00115 0 0 0 1 -1v-4a1.00115 1.00115 0 0 0 -1 -1h-4a1.00115 1.00115 0 0 0 -1 1v3H4v-2h2a1.00115 1.00115 0 0 0 1 -1v-4a1.00115 1.00115 0 0 0 -1 -1H4.5V3h4.5v3a1.00115 1.00115 0 0 0 1 1Zm0 7v-2h4v2Zm4 -4 0 1h-4v-1ZM2 10v-2h4v2Zm4.00025 -3H2v-1h4ZM10 6V4h4v2Zm4 -4 0 1h-4V2Z" fill="#000000" stroke-width="0.5"></path>
-  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-</svg>
+<svg id="App-Connectivity--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>App Connectivity Streamline Icon: https://streamlinehq.com</desc><defs/><title>app-connectivity</title><path d="M10 7h4a1.00115 1.00115 0 0 0 1 -1V2a1.00115 1.00115 0 0 0 -1 -1h-4a1.00115 1.00115 0 0 0 -1 1H4.5a1.00115 1.00115 0 0 0 -1 1v2H2a1.00115 1.00115 0 0 0 -1 1v4a1.00115 1.00115 0 0 0 1 1h1v2a1.00115 1.00115 0 0 0 1 1h5a1.00115 1.00115 0 0 0 1 1h4a1.00115 1.00115 0 0 0 1 -1v-4a1.00115 1.00115 0 0 0 -1 -1h-4a1.00115 1.00115 0 0 0 -1 1v3H4v-2h2a1.00115 1.00115 0 0 0 1 -1v-4a1.00115 1.00115 0 0 0 -1 -1H4.5V3h4.5v3a1.00115 1.00115 0 0 0 1 1Zm0 7v-2h4v2Zm4 -4 0 1h-4v-1ZM2 10v-2h4v2Zm4.00025 -3H2v-1h4ZM10 6V4h4v2Zm4 -4 0 1h-4V2Z" fill="#000000" stroke-width="0.5"/><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></svg>

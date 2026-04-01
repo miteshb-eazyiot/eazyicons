@@ -1,17 +1,1 @@
-<svg id="Soil-Moisture--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    Soil Moisture Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <path d="M12.25 14a2.6925 2.6925 0 0 1 -2.75 -2.6245 2.69185 2.69185 0 0 1 0.437 -1.4154l1.808 -2.69095a0.6085 0.6085 0 0 1 1.01 0l1.775 2.63855A2.74615 2.74615 0 0 1 15 11.3755 2.6925 2.6925 0 0 1 12.25 14Zm0 -5.69 -1.4678 2.1836A1.6793 1.6793 0 0 0 10.5 11.3755a1.755 1.755 0 0 0 3.5 0 1.7178 1.7178 0 0 0 -0.315 -0.9335Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M2 6.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M5 9.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M7 12.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M8 7.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M6 5.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M13 5.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M4 13.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M1 10.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"></path>
-  <path d="M1 3h14v1H1Z" fill="#000000" stroke-width="0.5"></path>
-  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-</svg>
+<svg id="Soil-Moisture--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>Soil Moisture Streamline Icon: https://streamlinehq.com</desc><defs/><path d="M12.25 14a2.6925 2.6925 0 0 1 -2.75 -2.6245 2.69185 2.69185 0 0 1 0.437 -1.4154l1.808 -2.69095a0.6085 0.6085 0 0 1 1.01 0l1.775 2.63855A2.74615 2.74615 0 0 1 15 11.3755 2.6925 2.6925 0 0 1 12.25 14Zm0 -5.69 -1.4678 2.1836A1.6793 1.6793 0 0 0 10.5 11.3755a1.755 1.755 0 0 0 3.5 0 1.7178 1.7178 0 0 0 -0.315 -0.9335Z" fill="#000000" stroke-width="0.5"/><path d="M2 6.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M5 9.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M7 12.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M8 7.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M6 5.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M13 5.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M4 13.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M1 10.5a0.5 0.5 0 1 0 1 0 0.5 0.5 0 1 0 -1 0" fill="#000000" stroke-width="0.5"/><path d="M1 3h14v1H1Z" fill="#000000" stroke-width="0.5"/><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></svg>

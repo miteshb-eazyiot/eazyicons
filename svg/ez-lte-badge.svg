@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24">
-  <g id="lte-mobiledata-badge-fill">
-    <path id="Union" fill="#000000" d="M22 20H2V4h20zM4.77637 15.2988H9.2041v-1.3857H6.51855V8.70117H4.77637zm3.7373 -5.207h1.88083v5.207h1.7432v-5.207h1.9248V8.70117H8.51367zm6.09273 5.207H19.21v-1.3857h-2.8604v-1.3252h2.4209v-1.3467h-2.4209v-1.1494h2.874V8.70117h-4.6172z" stroke-width="1"></path>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><g id="lte-mobiledata-badge-fill"><path id="Union" fill="#000000" d="M22 20H2V4h20zM4.77637 15.2988H9.2041v-1.3857H6.51855V8.70117H4.77637zm3.7373 -5.207h1.88083v5.207h1.7432v-5.207h1.9248V8.70117H8.51367zm6.09273 5.207H19.21v-1.3857h-2.8604v-1.3252h2.4209v-1.3467h-2.4209v-1.1494h2.874V8.70117h-4.6172z" stroke-width="1"/></g></svg>

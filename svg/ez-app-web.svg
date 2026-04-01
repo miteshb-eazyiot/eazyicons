@@ -1,12 +1,1 @@
-<svg id="Application-Web--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    Application Web Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <path d="M13 1h2v2h-2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M13 4h2v2h-2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M10 1h2v2h-2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M10 4h2v2h-2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M14 8v3H2V3h6V2H2a1 1 0 0 0 -1 1v8a1 1 0 0 0 1 1h4v2H4v1h8v-1h-2v-2h4a1 1 0 0 0 1 -1v-3ZM9 14h-2v-2h2Z" fill="#000000" stroke-width="0.5"></path>
-  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-</svg>
+<svg id="Application-Web--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>Application Web Streamline Icon: https://streamlinehq.com</desc><defs/><path d="M13 1h2v2h-2Z" fill="#000000" stroke-width="0.5"/><path d="M13 4h2v2h-2Z" fill="#000000" stroke-width="0.5"/><path d="M10 1h2v2h-2Z" fill="#000000" stroke-width="0.5"/><path d="M10 4h2v2h-2Z" fill="#000000" stroke-width="0.5"/><path d="M14 8v3H2V3h6V2H2a1 1 0 0 0 -1 1v8a1 1 0 0 0 1 1h4v2H4v1h8v-1h-2v-2h4a1 1 0 0 0 1 -1v-3ZM9 14h-2v-2h2Z" fill="#000000" stroke-width="0.5"/><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></svg>

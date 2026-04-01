@@ -1,12 +1,1 @@
-<svg id="Fire-Alarm--Streamline-Atlas" xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 16 16" height="16" width="16">
-  <desc>
-    Fire Alarm Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <path d="m0.925 0.9375 0 2.39375 1.1937499999999999 0 0 2.3874999999999997 10.7625 0 0 -2.3874999999999997 1.1937499999999999 0 0 -2.39375 -13.149999999999999 0z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-  <path d="M3.3125 5.71875h8.375A2.39375 2.39375 0 0 1 9.29375 8.125H5.706250000000001A2.39375 2.39375 0 0 1 3.3125 5.71875Z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-  <path d="m9.89375 3.33125 -7.7749999999999995 0" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-  <path d="m7.5 9.90625 -0.6 2.3874999999999997 1.2 0L7.5 14.6875" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-  <path d="m3.3125 9.90625 -0.59375 2.3874999999999997 1.1937499999999999 0 -0.6 2.39375" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-  <path d="m11.6875 9.90625 -0.6 2.3874999999999997 1.1937499999999999 0 -0.59375 2.39375" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"></path>
-</svg>
+<svg id="Fire-Alarm--Streamline-Atlas" xmlns="http://www.w3.org/2000/svg" viewBox="-0.5 -0.5 16 16"><desc>Fire Alarm Streamline Icon: https://streamlinehq.com</desc><defs/><path d="m0.925 0.9375 0 2.39375 1.1937499999999999 0 0 2.3874999999999997 10.7625 0 0 -2.3874999999999997 1.1937499999999999 0 0 -2.39375 -13.149999999999999 0z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/><path d="M3.3125 5.71875h8.375A2.39375 2.39375 0 0 1 9.29375 8.125H5.706250000000001A2.39375 2.39375 0 0 1 3.3125 5.71875Z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/><path d="m9.89375 3.33125 -7.7749999999999995 0" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/><path d="m7.5 9.90625 -0.6 2.3874999999999997 1.2 0L7.5 14.6875" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/><path d="m3.3125 9.90625 -0.59375 2.3874999999999997 1.1937499999999999 0 -0.6 2.39375" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/><path d="m11.6875 9.90625 -0.6 2.3874999999999997 1.1937499999999999 0 -0.59375 2.39375" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="1"/></svg>

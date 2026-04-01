@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24">
-  <g id="Keyboard-Projection-Key">
-    <path id="Vector" fill="#000000" d="M20 3c0.5523 0 1 0.44772 1 1v16c0 0.5523 -0.4477 1 -1 1H4c-0.55228 0 -1 -0.4477 -1 -1V4c0 -0.55228 0.44772 -1 1 -1zM5 19h14V5H5zm12 -7.5h-4l4 4H7l4 -4H7v-2h10z" stroke-width="1"></path>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><g id="Keyboard-Projection-Key"><path id="Vector" fill="#000000" d="M20 3c0.5523 0 1 0.44772 1 1v16c0 0.5523 -0.4477 1 -1 1H4c-0.55228 0 -1 -0.4477 -1 -1V4c0 -0.55228 0.44772 -1 1 -1zM5 19h14V5H5zm12 -7.5h-4l4 4H7l4 -4H7v-2h10z" stroke-width="1"/></g></svg>

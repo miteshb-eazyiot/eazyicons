@@ -1,14 +1,1 @@
-<svg id="Ibm-Aiops-Insights--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    Ibm Aiops Insights Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <path d="M2.75 11.5 1 15l3.5 0 -1.75 -3.5z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M13 7.5v1c0.55125 0 1 0.44875 1 1v2.5c0 0.55125 -0.44875 1 -1 1H5v1h8c1.10305 0 2 -0.89695 2 -2v-2.5c0 -1.1028 -0.89695 -2 -2 -2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M7 12c-0.22315 0 -0.41945 -0.14795 -0.4807 -0.36255L5.6228 8.5H4v-1h2c0.22315 0 0.41945 0.14795 0.4807 0.36255L7 9.67995l1.5193 -5.3174C8.5806 4.14795 8.77685 4 9 4s0.41945 0.14795 0.4807 0.36255L10.3772 7.5H12v1h-2c-0.22315 0 -0.41945 -0.14795 -0.4807 -0.36255L9 6.32005l-1.5193 5.3174C7.4194 11.85205 7.22315 12 7 12Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M2 6.5V4c0 -0.5515 0.4485 -1 1 -1h8V2H3C1.8972 2 1 2.8972 1 4v2.5c0 1.1028 0.8972 2 2 2v-1c-0.5515 0 -1 -0.4485 -1 -1Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M12 2.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" fill="#000000" stroke-width="0.5"></path>
-  <g id="_Transparent_Rectangle_">
-    <path d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-  </g>
-</svg>
+<svg id="Ibm-Aiops-Insights--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>Ibm Aiops Insights Streamline Icon: https://streamlinehq.com</desc><defs/><path d="M2.75 11.5 1 15l3.5 0 -1.75 -3.5z" fill="#000000" stroke-width="0.5"/><path d="M13 7.5v1c0.55125 0 1 0.44875 1 1v2.5c0 0.55125 -0.44875 1 -1 1H5v1h8c1.10305 0 2 -0.89695 2 -2v-2.5c0 -1.1028 -0.89695 -2 -2 -2Z" fill="#000000" stroke-width="0.5"/><path d="M7 12c-0.22315 0 -0.41945 -0.14795 -0.4807 -0.36255L5.6228 8.5H4v-1h2c0.22315 0 0.41945 0.14795 0.4807 0.36255L7 9.67995l1.5193 -5.3174C8.5806 4.14795 8.77685 4 9 4s0.41945 0.14795 0.4807 0.36255L10.3772 7.5H12v1h-2c-0.22315 0 -0.41945 -0.14795 -0.4807 -0.36255L9 6.32005l-1.5193 5.3174C7.4194 11.85205 7.22315 12 7 12Z" fill="#000000" stroke-width="0.5"/><path d="M2 6.5V4c0 -0.5515 0.4485 -1 1 -1h8V2H3C1.8972 2 1 2.8972 1 4v2.5c0 1.1028 0.8972 2 2 2v-1c-0.5515 0 -1 -0.4485 -1 -1Z" fill="#000000" stroke-width="0.5"/><path d="M12 2.5a1.5 1.5 0 1 0 3 0 1.5 1.5 0 1 0 -3 0" fill="#000000" stroke-width="0.5"/><g id="_Transparent_Rectangle_"><path d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></g></svg>
