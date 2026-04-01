@@ -1,0 +1,10 @@
+<svg id="Load-Balancer-Network--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
+  <desc>
+    Load Balancer Network Streamline Icon: https://streamlinehq.com
+  </desc>
+  <defs></defs>
+  <path d="M12.5 8h-4v-2h-1v2H3.5a1.00115 1.00115 0 0 0 -1 1v2h1v-2h4v2h1v-2h4v2h1v-2a1.00115 1.00115 0 0 0 -1 -1Z" fill="#000000" stroke-width="0.5"></path>
+  <path d="M10 5V1h-4v4h4Zm-3 -1V2h2v2Z" fill="#000000" stroke-width="0.5"></path>
+  <path d="M13 12a1.4974 1.4974 0 0 0 -1.40785 1h-2.1843a1.491 1.491 0 0 0 -2.8157 0H4.40785a1.5 1.5 0 1 0 0 1h2.1843a1.491 1.491 0 0 0 2.8157 0h2.1843A1.49735 1.49735 0 1 0 13 12ZM3 14a0.5 0.5 0 1 1 0.5 -0.5 0.50045 0.50045 0 0 1 -0.5 0.5Zm5 0a0.5 0.5 0 1 1 0.5 -0.5 0.50045 0.50045 0 0 1 -0.5 0.5Zm5 0a0.5 0.5 0 1 1 0.5 -0.5 0.50045 0.50045 0 0 1 -0.5 0.5Z" fill="#000000" stroke-width="0.5"></path>
+  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
+</svg>
