@@ -1,12 +1,1 @@
-<svg id="Iot-Platform--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="16" width="16">
-  <desc>
-    Iot Platform Streamline Icon: https://streamlinehq.com
-  </desc>
-  <defs></defs>
-  <title>iot--platform</title>
-  <path d="M15 9.5h-2v-2h-1v4.5H4V4l4.5 -0.00045V3h-2V1h-1v2H4a1.001 1.001 0 0 0 -1 1v1.5H1v1h2v3H1v1h2v1.5a1.00115 1.00115 0 0 0 1 1h1.5v2h1v-2h3v2h1v-2h1.5a1.00135 1.00135 0 0 0 1 -1v-1.5h2Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M10.5 10.5H5.5V5.5h5Zm-4 -1h3v-3h-3Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M15.5 6.5h-1A5.00585 5.00585 0 0 0 9.5 1.5V0.5a6.00655 6.00655 0 0 1 6 6Z" fill="#000000" stroke-width="0.5"></path>
-  <path d="M13 6.5h-1a2.50295 2.50295 0 0 0 -2.5 -2.5V3a3.50425 3.50425 0 0 1 3.5 3.5Z" fill="#000000" stroke-width="0.5"></path>
-  <path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"></path>
-</svg>
+<svg id="Iot-Platform--Streamline-Carbon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><desc>Iot Platform Streamline Icon: https://streamlinehq.com</desc><defs/><title>iot--platform</title><path d="M15 9.5h-2v-2h-1v4.5H4V4l4.5 -0.00045V3h-2V1h-1v2H4a1.001 1.001 0 0 0 -1 1v1.5H1v1h2v3H1v1h2v1.5a1.00115 1.00115 0 0 0 1 1h1.5v2h1v-2h3v2h1v-2h1.5a1.00135 1.00135 0 0 0 1 -1v-1.5h2Z" fill="#000000" stroke-width="0.5"/><path d="M10.5 10.5H5.5V5.5h5Zm-4 -1h3v-3h-3Z" fill="#000000" stroke-width="0.5"/><path d="M15.5 6.5h-1A5.00585 5.00585 0 0 0 9.5 1.5V0.5a6.00655 6.00655 0 0 1 6 6Z" fill="#000000" stroke-width="0.5"/><path d="M13 6.5h-1a2.50295 2.50295 0 0 0 -2.5 -2.5V3a3.50425 3.50425 0 0 1 3.5 3.5Z" fill="#000000" stroke-width="0.5"/><path id="_Transparent_Rectangle_" d="M0 0h16v16H0Z" fill="none" stroke-width="0.5"/></svg>
